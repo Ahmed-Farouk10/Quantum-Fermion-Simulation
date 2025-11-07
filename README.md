@@ -1,6 +1,6 @@
 # Advanced Quantum Simulation: Fast Fermion Mapping and Landscape Analysis
 
-![Project Banner](img\Fast Simulation of Fermions with Reconfigurable.png)
+![Project Banner](img/Fast Simulation of Fermions with Reconfigurable.png)
 Welcome! This repository is an exploration into the cutting-edge of quantum simulation. The primary focus is an implementation and analysis of the research paper **"Fast simulation of fermions with reconfigurable qubits" (arXiv:2509.08898v1)**, which proposes a method to dramatically reduce the overhead of simulating fermionic systems.
 
 This project also includes a broader analysis of the current quantum landscape, including Microsoft's work on 4D topological codes and D-Wave's quantum annealing hardware.
