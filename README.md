@@ -1,6 +1,6 @@
 # Advanced Quantum Simulation: Fast Fermion Mapping and Landscape Analysis
 
-![Project Banner](img/Fast%20Simulation%20of%20Ferimons%20with%20Reconiggable%20Arcthiectures.jpg)
+![Project Banner](img\Fast Simulation of Fermions with Reconfigurable.png)
 
 Welcome! This repository is an exploration into the cutting-edge of quantum simulation. The primary focus is an implementation and analysis of the research paper **"Fast simulation of fermions with reconfigurable qubits" (arXiv:2509.08898v1)**, which proposes a method to dramatically reduce the overhead of simulating fermionic systems.
 
